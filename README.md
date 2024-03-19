@@ -6,8 +6,11 @@ However, some functions may not be able to use if the data source is missing.
 Use these augments to set the data files:
 
 --population=data/population.csv
+
 --covid=data/covid_data.json
+
 --properties=data/properties_simple.csv
+
 --log=log.txt
 
 Function:
