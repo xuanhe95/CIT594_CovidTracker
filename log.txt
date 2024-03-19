@@ -1,0 +1,6 @@
+1710883359437 --population=pop.csv --covid=cov.csv --properties=props.csv --log=log.txt
+1710883454709 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1710883479092 --population=population.csv --covid=data/covid_data.csv --properties=properties.csv --log=log.txt
+1710883738436 --population=/data/population.csv --covid=data/covid_data.csv --properties=properties.csv --log=log.txt
+1710883849028 --population=/data/population.csv --covid=data/covid_data.csv --properties=properties.csv --log=log.txt
+1710883849037 data/covid_data.csv
